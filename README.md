@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Ankita Dhara</h1>
-<h3 align="center">I am a student of Electronics & Communication Engineering.</h3>
+### Hi there 👋, Hey, I am Ankita Dhara
+#### I am a student of Electronics & Communication Engineering
+![I am a student of Electronics & Communication Engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita6dhara&label=Profile%20views&color=0e75b6&style=flat" alt="ankita6dhara" /> </p>
+Hello, I am Ankita Dhara. Currently I am pursuing B.Tech from Narula Institute Of Technology.
 
-- 🔭 I’m currently working on **Sign Language Detection**
+Skills: C/ JAVA / DATA STRUCTURE/ HTML 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ankita-dhara-2a8534215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ankita-dhara-2a8534215" height="30" width="40" /></a>
-<a href="https://instagram.com/its_ankihere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_ankihere" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on this page. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankita6dhara&show_icons=true&locale=en&layout=compact" alt="ankita6dhara" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ankita6dhara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ankita Dhara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ankita Dhara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/its_ankihere/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AnkitaDhara6)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankita6dhara&" alt="ankita6dhara" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita6dhara)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankita6dhara&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ankita6dhara)  
+
+![Profile views](https://gpvc.arturio.dev/Ankita6dhara)  
